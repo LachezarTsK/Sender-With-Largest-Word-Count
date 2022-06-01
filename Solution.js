@@ -27,7 +27,7 @@ var largestWordCount = function (messages, senders) {
 };
 
 /**
- * @param {string[]} message
+ * @param {string} message
  * @return {number}
  */
 function  countNumberOfWords(message) {
